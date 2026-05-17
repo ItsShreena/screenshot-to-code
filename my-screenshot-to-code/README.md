@@ -1,10 +1,3 @@
-# 🚀 Screenshot to Code
-
-A frontend project that converts UI screenshots into responsive React components and Tailwind CSS layouts.
-
-This project is focused on simplifying the process of recreating UI designs from screenshots into code.
-
----
 
 # ✨ Features
 
